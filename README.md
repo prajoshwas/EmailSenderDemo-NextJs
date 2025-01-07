@@ -1,0 +1,1 @@
+Just a small app to send email.
